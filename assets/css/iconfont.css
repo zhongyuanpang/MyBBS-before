@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2628814 */
+  src: url('../fonts/iconfont.woff2?t=1624590543849') format('woff2'),
+       url('../fonts/iconfont.woff?t=1624590543849') format('woff'),
+       url('../fonts/iconfont.ttf?t=1624590543849') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chakantiezihuifu:before {
+  content: "\e663";
+}
+
+.icon-huifu:before {
+  content: "\e614";
+}
+
+.icon-huifu1:before {
+  content: "\e638";
+}
+
+.icon-tuichu:before {
+  content: "\e65b";
+}
+
+.icon-huifu2:before {
+  content: "\e669";
+}
+
+.icon-yezishu:before {
+  content: "\e6d0";
+}
+
+.icon-signout:before {
+  content: "\e627";
+}
+
+.icon-wenjianjia:before {
+  content: "\e6cb";
+}
+
+.icon-laba:before {
+  content: "\e637";
+}
+
+.icon-laba1:before {
+  content: "\ec40";
+}
+
+.icon-date:before {
+  content: "\e697";
+}
+
+.icon-search:before {
+  content: "\e631";
+}
+
+.icon-search1:before {
+  content: "\e63e";
+}
+
+.icon-tags:before {
+  content: "\e730";
+}
+
+.icon-shushuben:before {
+  content: "\e61b";
+}
+
